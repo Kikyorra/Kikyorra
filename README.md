@@ -62,3 +62,11 @@ Me chamo Lucas Lima, mas prefiro que me chamem pelo meu apelido, Kikyo, mas não
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikyorra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />

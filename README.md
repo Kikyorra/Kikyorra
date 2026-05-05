@@ -7,10 +7,8 @@ Me chamo Lucas Lima, mas prefiro que me chamem pelo meu apelido, Kikyo, mas não
 <p align="left">
     <a href="https://github.com/Kikyorra?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Kikyorra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+  src="https://img.shields.io/github/followers/Kikyorra?style=for-the-badge&color=236ad3&label=Seguidores"
+/>
     </a>
 </p>
 

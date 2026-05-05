@@ -54,11 +54,32 @@ Me chamo Lucas Lima, mas prefiro que me chamem pelo meu apelido, Kikyo, mas não
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Mais Informações</b>
+      </samp>
+  </summary>
+  
+##
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kikyorra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kikyorra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <samp>
+    <b>
+      Me contate:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-###
+ [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucaslideiro@gmail.com)
+ [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/lucasl.deiro/)
+
+ 
+  </p>
+</div>
+<br>
+
+</details>

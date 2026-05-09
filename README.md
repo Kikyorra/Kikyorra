@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+
 # 💠Lucas l.Deiro
 **`Dev frontend & backend`**
 
@@ -5,7 +10,16 @@
 
 My name is Lucas Lima, but you can call me by my nickname, Kikyo. I'm 18 years old and currently living in Campinas, São Paulo, Brazil.
 At the moment, I'm studying programming on my own through research, practice, and free online courses. My goal is to become a backend developer, learn as much as possible about programming, and work on amazing projects in the future.
-Currently, I am learning JavaScript, HTML, CSS, and C#.
+Currently, I am learning Python, JavaScript, HTML, CSS, and C#.
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/1200x/ff/a5/fe/ffa5fea15ddf690cf4b803bd830f4b6b.jpg"  />
+</div>
+
+
+###
 
 ---
 

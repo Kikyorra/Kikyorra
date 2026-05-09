@@ -1,55 +1,56 @@
 # 💠Lucas l.Deiro
-**`Desenvolvedor Front-End`**
-
-Me chamo Lucas Lima, mas prefiro que me chamem pelo meu apelido, Kikyo, mas não vejo problemas em me chamar pelo nome, tenho 18 anos e atualmente moro em Campinas SP, concluí meu ensino medio em uma escola de referencia de ensino medio (erem) comum, e agora estou aprendendo por mim mesmo, com pesquisas e cursos gratuitos como programar, atualmente estou aprendendo JavaScript e HTML/CSS.
-
-
-<p align="left">
-    <a href="https://github.com/Kikyorra?tab=followers">
-        <img 
-  src="https://img.shields.io/github/followers/Kikyorra?style=for-the-badge&color=236ad3&label=Seguidores"
-/>
-    </a>
-</p>
+**`Dev frontend & backend`**
 
 ---
 
-### 🤖 Linguagens e Tecnologias que eu utilizo
+My name is Lucas Lima, but you can call me by my nickname, Kikyo. I'm 18 years old and currently living in Campinas, São Paulo, Brazil.
+At the moment, I'm studying programming on my own through research, practice, and free online courses. My goal is to become a backend developer, learn as much as possible about programming, and work on amazing projects in the future.
+Currently, I am learning JavaScript, HTML, CSS, and C#.
 
-<div align="center" style="display: inline_block"><br>
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+---
 
-<br/>
-<br/>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Mais Informações</b>
-      </samp>
-  </summary>
-  
-##
-
-<br>
+###
 
 <div align="center">
-  <samp>
-    <b>
-      Me contate:
-    </b>
-  </samp>
-  <br>
-  <br>
-
- [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucaslideiro@gmail.com)
- [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/lucasl.deiro/)
-
- 
-  </p>
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
-<br>
 
-</details>
+###
+
+<div align="center">
+  <a href="ulquiorrazx._#05551" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/lucasl.deiro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="lucaslideiro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kikyorra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+

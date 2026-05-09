@@ -63,8 +63,13 @@ Currently, I am learning Python, JavaScript, HTML, CSS, and C#.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kikyorra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kikyorra&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kikyorra&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kikyorra&theme=radical"/>
 </div>
 
 ###
+---
+
+
 

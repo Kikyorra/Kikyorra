@@ -43,7 +43,7 @@ Currently, I am learning Python, JavaScript, HTML, CSS, and C#.
 ###
 
 <div align="center">
-  <a href="(https://discord.gg/UPbPrAgp)" target="_blank">
+  <a href="https://discord.gg/UPbPrAgp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/lucasl.deiro/" target="_blank">
